@@ -2,7 +2,7 @@
 
 ## Requirements
 
-* **Nodejs > v12.0.x **
+* **Nodejs > v12.0.x**
 
 Clone project and run test.
 
