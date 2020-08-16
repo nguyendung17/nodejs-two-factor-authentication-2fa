@@ -2,7 +2,7 @@
 
 ## Requirements
 
-* Nodejs > v12.0.x 
+* **Nodejs > v12.0.x **
 
 Clone project and run test.
 
@@ -25,9 +25,9 @@ CV: https://cv.trungquandev.com/
 
 "A little bit of fragrance always clings to the hands that gives you roses!"
 
-![nodejs-two-factor-authentication-practice-workflow-trungquandev-02](https://github.com/trungquan17/nodejs-two-factor-authentication-2fa/imagesDemo/nodejs-two-factor-authentication-practice-workflow-trungquandev-02.jpg?raw=true)
+![nodejs-two-factor-authentication-practice-workflow-trungquandev-02](https://github.com/trungquan17/nodejs-two-factor-authentication-2fa/tree/master/imagesDemo/nodejs-two-factor-authentication-practice-workflow-trungquandev-02.jpg?raw=true)
 
-![nodejs-two-factor-authentication-practice-trungquandev-04](https://github.com/trungquan17/nodejs-two-factor-authentication-2fa/imagesDemo/nodejs-two-factor-authentication-practice-trungquandev-04.png?raw=true)
+![nodejs-two-factor-authentication-practice-trungquandev-04](https://github.com/trungquan17/nodejs-two-factor-authentication-2fa/tree/master/imagesDemo/nodejs-two-factor-authentication-practice-trungquandev-04.png?raw=true)
 
 Find more images demo at folder: **/imagesDemo**
 
